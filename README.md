@@ -99,41 +99,27 @@ What I bring:
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:hanania.meseret@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hanania16">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/hanania16">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hanania_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanania_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanania.meseret@gmail.com) 
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=hanania16&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hanania16&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanania16&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hanania16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hanania16&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hanania16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanania16&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanania16&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
----
-
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hanania16/count.svg" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
